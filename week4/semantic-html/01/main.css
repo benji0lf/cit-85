@@ -1,0 +1,43 @@
+header {
+    background-color: lightgray;
+    text-align: center;
+    padding: 50px;
+    margin: 10px;
+}
+
+section {
+    display: inline-block;
+    width: 50%;
+    vertical-align: top;
+    background-color: lightgray;
+    text-align: center;
+    padding: 50px;
+    margin: 10px;
+    height: 150px;
+    width: 60%;
+}
+
+article {
+    background-color: gray;
+    text-align: center;
+    padding: 50px;
+    margin: 10px;
+}
+
+aside {
+    display: inline-block;
+    vertical-align: top;
+    background-color: lightgray;
+    text-align: center;
+    padding: 50px;
+    margin: 10px;
+    height: 150px;
+    width: 10%;
+}
+
+footer {
+    background-color: lightgray;
+    text-align: center;
+    padding: 50px;
+    margin: 10px;
+}
