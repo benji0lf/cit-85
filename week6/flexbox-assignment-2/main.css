@@ -1,0 +1,14 @@
+body {
+    display: flex;
+}
+
+div {
+    height: 100px;
+    width: 400px;
+    border: 2px solid black;
+    flex-grow: 1;
+}
+
+#grow2 {
+    flex-grow: 2;
+}
