@@ -1,0 +1,23 @@
+html, body, div {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-image: url("paradise.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 5px solid red;
+}
+
+p {
+    font-size: 5rem;
+    color: white;
+    text-align: center;
+}
