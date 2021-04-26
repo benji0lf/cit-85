@@ -1,0 +1,17 @@
+#d1, #d2 {
+    width: 600px;
+    height: 400px;
+    color: white;
+}
+
+#d1 {
+    background-color: grey;
+    position: relative;
+}
+
+#d2 {
+    background-color: navy;
+    position: absolute;
+    left: 250px;
+    top: 200px;
+}
