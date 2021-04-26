@@ -1,0 +1,15 @@
+div {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: red;
+    animation-name: changeColor;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-direction: reverse;
+}
+
+@keyframes changeColor {
+    0% { background-color: red; }
+    100% { background-color: blue; }
+}
