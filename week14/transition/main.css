@@ -1,0 +1,16 @@
+div {
+    height: 100px;
+    width: 100px;
+    background-color: brown;
+    border-radius: 50%;
+    transition: background-color;
+    transition-duration: 500ms;
+}
+
+div:hover {
+    transition: all;
+    transition-duration: 500ms;
+    transition-timing-function: ease-in-out;
+    background-color: navy;
+}
+
