@@ -1,0 +1,24 @@
+header, p, #a1, #a2, footer {
+    padding: 10px;
+    text-align: center;
+}
+
+header {
+    background-color: tomato;
+}
+
+p {
+    background-color: deepskyblue;
+}
+
+#a1 {
+    background-color: gold;
+}
+
+#a2 {
+    background-color: hotpink;
+}
+
+footer {
+    background-color: lawngreen;
+}

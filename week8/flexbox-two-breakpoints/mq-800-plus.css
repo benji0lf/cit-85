@@ -1,0 +1,23 @@
+p {
+    width: 70%;
+}
+
+aside {
+    width: 15%;
+}
+
+#a1 {
+    order: 1;
+}
+
+p {
+    order: 2;
+}
+
+#a2 {
+    order: 3;
+}
+
+footer {
+    order: 4;
+}
