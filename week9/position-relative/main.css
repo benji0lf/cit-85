@@ -1,0 +1,15 @@
+div {
+    height: 50px;
+    width: 50px;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    margin: 10px;
+}
+
+#rel {
+    position: relative;
+    background-color: green;
+    top: 100px;
+    left: 25px;
+}
